@@ -1,2 +1,2 @@
-# small-python-app
+# Word review.
 Small python app.
